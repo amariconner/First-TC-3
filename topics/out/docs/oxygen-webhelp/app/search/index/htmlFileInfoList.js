@@ -1,0 +1,1 @@
+var htmlFileInfoList = ["TC 3/topics/Adding_Zoom_to_Canvas_Courses.html@@@Adding Zoom to Canvas Courses@@@Follow these steps to add the Zoom integration to each Canvas course you want to use with Zoom...","cshelp.html@@@Context Sensitive Help@@@..."];
